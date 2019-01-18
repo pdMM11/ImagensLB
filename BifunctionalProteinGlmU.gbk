@@ -1,0 +1,215 @@
+LOCUS       GLMU_STAAN               450 aa            linear   BCT 05-DEC-2018
+DEFINITION  RecName: Full=Bifunctional protein GlmU; Includes: RecName:
+            Full=UDP-N-acetylglucosamine pyrophosphorylase; AltName:
+            Full=N-acetylglucosamine-1-phosphate uridyltransferase; Includes:
+            RecName: Full=Glucosamine-1-phosphate N-acetyltransferase.
+ACCESSION   Q7A7B4
+VERSION     Q7A7B4.1
+KEYWORDS    Acyltransferase; Cell shape; Cell wall biogenesis/degradation;
+            Complete proteome; Cytoplasm; Magnesium; Metal-binding;
+            Multifunctional enzyme; Nucleotidyltransferase; Peptidoglycan
+            synthesis; Repeat; Transferase.
+SOURCE      Staphylococcus aureus subsp. aureus N315
+  ORGANISM  Staphylococcus aureus subsp. aureus N315
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1  (residues 1 to 450)
+  AUTHORS   Kuroda,M., Ohta,T., Uchiyama,I., Baba,T., Yuzawa,H., Kobayashi,I.,
+            Cui,L., Oguchi,A., Aoki,K., Nagai,Y., Lian,J., Ito,T., Kanamori,M.,
+            Matsumaru,H., Maruyama,A., Murakami,H., Hosoyama,A., Mizutani-Ui,Y.,
+            Takahashi,N.K., Sawano,T., Inoue,R., Kaito,C., Sekimizu,K.,
+            Hirakawa,H., Kuhara,S., Goto,S., Yabuzaki,J., Kanehisa,M.,
+            Yamashita,A., Oshima,K., Furuya,K., Yoshino,C., Shiba,T.,
+            Hattori,M., Ogasawara,N., Hayashi,H. and Hiramatsu,K.
+  TITLE     Whole genome sequencing of meticillin-resistant Staphylococcus
+            aureus
+  JOURNAL   Lancet 357 (9264), 1225-1240 (2001)
+   PUBMED   11418146
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].; STRAIN=N315
+REFERENCE   2  (residues 1 to 450)
+  AUTHORS   Vaezzadeh,A.R., Deshusses,J., Lescuyer,P. and Hochstrasser,D.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-OCT-2007) to UniProtKB
+  REMARK    IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].;
+            STRAIN=N315
+COMMENT     [FUNCTION] Catalyzes the last two sequential reactions in the de
+            novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP-GlcNAc).
+            The C-terminal domain catalyzes the transfer of acetyl group from
+            acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce
+            N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted
+            into UDP-GlcNAc by the transfer of uridine 5-monophosphate (from
+            uridine 5-triphosphate), a reaction catalyzed by the N-terminal
+            domain. {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [CATALYTIC ACTIVITY] Reaction=acetyl-CoA + alpha-D-glucosamine
+            1-phosphate = CoA + H(+) + N-acetyl-alpha-D-glucosamine
+            1-phosphate; Xref=Rhea:RHEA:13725, ChEBI:CHEBI:15378,
+            ChEBI:CHEBI:57287, ChEBI:CHEBI:57288, ChEBI:CHEBI:57776,
+            ChEBI:CHEBI:58516; EC=2.3.1.157;
+            Evidence={ECO:0000255|HAMAP-Rule:MF_01631}.
+            [CATALYTIC ACTIVITY] Reaction=H(+) + N-acetyl-alpha-D-glucosamine
+            1-phosphate + UTP = diphosphate + UDP-N-acetyl-alpha-D-glucosamine;
+            Xref=Rhea:RHEA:13509, ChEBI:CHEBI:15378, ChEBI:CHEBI:33019,
+            ChEBI:CHEBI:46398, ChEBI:CHEBI:57705, ChEBI:CHEBI:57776;
+            EC=2.7.7.23; Evidence={ECO:0000255|HAMAP-Rule:MF_01631}.
+            [COFACTOR] Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+            Evidence={ECO:0000255|HAMAP-Rule:MF_01631}; Note=Binds 1 Mg(2+) ion
+            per subunit. {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [PATHWAY] Nucleotide-sugar biosynthesis;
+            UDP-N-acetyl-alpha-D-glucosamine biosynthesis;
+            N-acetyl-alpha-D-glucosamine 1-phosphate from alpha-D-glucosamine
+            6-phosphate (route II): step 2/2.
+            {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [PATHWAY] Nucleotide-sugar biosynthesis;
+            UDP-N-acetyl-alpha-D-glucosamine biosynthesis;
+            UDP-N-acetyl-alpha-D-glucosamine from N-acetyl-alpha-D-glucosamine
+            1-phosphate: step 1/1. {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [PATHWAY] Bacterial outer membrane biogenesis; LPS lipid A
+            biosynthesis. {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [SUBUNIT] Homotrimer. {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [SUBCELLULAR LOCATION] Cytoplasm {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [SIMILARITY] In the N-terminal section; belongs to the
+            N-acetylglucosamine-1-phosphate uridyltransferase family.
+            {ECO:0000255|HAMAP-Rule:MF_01631}.
+            [SIMILARITY] In the C-terminal section; belongs to the transferase
+            hexapeptide repeat family. {ECO:0000255|HAMAP-Rule:MF_01631}.
+FEATURES             Location/Qualifiers
+     source          1..450
+                     /organism="Staphylococcus aureus subsp. aureus N315"
+                     /db_xref="taxon:158879"
+     gene            1..450
+                     /gene="glmU"
+                     /locus_tag="SA0457"
+                     /gene_synonym="gcaD"
+     Protein         1..450
+                     /product="Bifunctional protein GlmU"
+                     /EC_number="2.7.7.23"
+                     /EC_number="2.3.1.157"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..450
+                     /region_name="glmU"
+                     /note="bifunctional N-acetylglucosamine-1-phosphate
+                     uridyltransferase/glucosamine-1-phosphate
+                     acetyltransferase; Provisional; PRK14354"
+                     /db_xref="CDD:184643"
+     Region          1..450
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Bifunctional protein GlmU. /FTId=PRO_0000068710."
+     Region          1..229
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Pyrophosphorylase.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Region          8..11
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc binding.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            22
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            72
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Region          77..78
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc binding.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            102
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Magnesium. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            139
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc; via amide nitrogen.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            154
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            227
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Magnesium. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            227
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Region          230..250
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Linker. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Region          251..450
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetyltransferase.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            332
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            350
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            362
+                     /site_type="active"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Proton acceptor. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            365
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            376
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="UDP-GlcNAc. {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Region          385..386
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Acetyl-CoA binding.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            422
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Acetyl-CoA; via amide nitrogen.
+                     {ECO:0000255|HAMAP-Rule:MF_01631}."
+     Site            439
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Acetyl-CoA. {ECO:0000255|HAMAP-Rule:MF_01631}."
+ORIGIN
+        1 mrrhaiilaa gkgtrmkskk ykvlhevagk pmvehvlesv kgsgvdqvvt ivghgaesvk
+       61 ghlgerslys fqekqlgtah avqmakshle dkegttivvc gdtplitket letliahhed
+      121 anaqatvlsa siqqpygygr ivrnasgrle riveekdatq aekdineiss gifafnnktl
+      181 fekltqvknd naqgeyylpd vlslilndgg ivevyrtndv eeimgvndrv mlsqaekamq
+      241 rrtnhyhmln gvtiidpdst figpdvtigs dtviepgvri ngrteigedv vigqyseinn
+      301 stiengaciq qsvvndasvg antkvgpfaq lrpgaqlgad vkvgnfveik kadlkdgakv
+      361 shlsyigdav igertnigcg titvnydgen kfktivgkds fvgcnvnlva pvtigddvlv
+      421 aagstitddv pndslavara rqttkegyrk
+//

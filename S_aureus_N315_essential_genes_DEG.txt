@@ -1,0 +1,303 @@
+No.	DEG ID	Gene Name	Function	Organism
+1	DEG10020001	dnaA	chromosomal replication initiator protein	Staphylococcus aureus N315
+2	DEG10020002	recF	Recombinational DNA repair ATPase (RecF pathway)	Staphylococcus aureus N315
+3	DEG10020003	gyrB	DNA gyrase subunit B	Staphylococcus aureus N315
+4	DEG10020004	gyrA	DNA gyrase subunit A	Staphylococcus aureus N315
+5	DEG10020005	serS	seryl-tRNA synthetase	Staphylococcus aureus N315
+6	DEG10020006	rplI	50S ribosomal protein L9	Staphylococcus aureus N315
+7	DEG10020007	dnaC	replicative DNA helicase	Staphylococcus aureus N315
+8	DEG10020008	SA0021	Conserved hypothetical protein	Staphylococcus aureus N315
+9	DEG10020009	SA0085	Conserved hypothetical protein	Staphylococcus aureus N315
+10	DEG10020010	drm	Phosphopentomutase	Staphylococcus aureus N315
+11	DEG10020011	SA0179	Ornithine aminotransferase	Staphylococcus aureus N315
+12	DEG10020012	SA0181	Hypothetical protein	Staphylococcus aureus N315
+13	DEG10020013	oppF	oligopeptide transport ATP-binding protein	Staphylococcus aureus N315
+14	DEG10020014	msmX	Multiple sugar-binding transport ATP-binding protein	Staphylococcus aureus N315
+15	DEG10020015	SA0230	Conserved hypothetical protein	Staphylococcus aureus N315
+16	DEG10020016	SA0272	similar to transmembrane protein Tmp7	Staphylococcus aureus N315
+17	DEG10020017	SA0348	Hypothetical protein	Staphylococcus aureus N315
+18	DEG10020018	SA0351	hypothetical protein, similar to GTP-binding protein	Staphylococcus aureus N315
+19	DEG10020019	rpsF	30S ribosomal protein S6	Staphylococcus aureus N315
+20	DEG10020020	ssb	Single-strand DNA-binding protein	Staphylococcus aureus N315
+21	DEG10020021	rpsR	30S ribosomal protein S18	Staphylococcus aureus N315
+22	DEG10020022	pubX/pbuX	Xanthine permease	Staphylococcus aureus N315
+23	DEG10020023	guaB	Inositol-monophosphate dehydrogenase	Staphylococcus aureus N315
+24	DEG10020024	guaA	GMP synthase	Staphylococcus aureus N315
+25	DEG10020025	SA0422	Hypothetical protein	Staphylococcus aureus N315
+26	DEG10020026	dnaX	DNA polymerase III gamma and tau subunits	Staphylococcus aureus N315
+27	DEG10020027	SA0437	conserved hypothetical protein	Staphylococcus aureus N315
+28	DEG10020028	tmk	Thymidylate kinase homolog	Staphylococcus aureus N315
+29	DEG10020029	SA0446	Conserved hypothetical protein	Staphylococcus aureus N315
+30	DEG10020030	SA0447	conserved hypothetical protein	Staphylococcus aureus N315
+31	DEG10020031	metS	methionyl-tRNA synthetase	Staphylococcus aureus N315
+32	DEG10020032	SA0449	conserved hypothetical protein	Staphylococcus aureus N315
+33	DEG10020033	gcaD	UDP-N-acetylglucosamine pyrophosphorylase	Staphylococcus aureus N315
+34	DEG10020034	prs	Ribose-phosphate pyrophosphokinase	Staphylococcus aureus N315
+35	DEG10020035	pth	Peptidyl-tRNA hydrolase	Staphylococcus aureus N315
+36	DEG10020036	SA0464	conserved hypothetical protein	Staphylococcus aureus N315
+37	DEG10020037	SA0467	conserved hypothetical protein	Staphylococcus aureus N315
+38	DEG10020038	ftsH	cell-division protein	Staphylococcus aureus N315
+39	DEG10020039	lysS	lysyl-tRNA synthetase	Staphylococcus aureus N315
+40	DEG10020040	clpC	endopeptidase	Staphylococcus aureus N315
+41	DEG10020041	gltX	Glutamyl-tRNA synthetase (glutamate--tRNA ligase)	Staphylococcus aureus N315
+42	DEG10020042	cysS	cysteinyl-tRNA synthetase	Staphylococcus aureus N315
+43	DEG10020043	rplK	50S ribosomal protein L11	Staphylococcus aureus N315
+44	DEG10020044	rplA	50S ribosomal protein L1	Staphylococcus aureus N315
+45	DEG10020045	rplJ	50S ribosomal protein L10	Staphylococcus aureus N315
+46	DEG10020046	rplL	50S ribosomal protein L7/L12	Staphylococcus aureus N315
+47	DEG10020047	rpoB	DNA-directed RNA polymerase subunit beta	Staphylococcus aureus N315
+48	DEG10020048	rpoC	RNA polymerase beta-prime chain	Staphylococcus aureus N315
+49	DEG10020049	rpsL	30S ribosomal protein S12	Staphylococcus aureus N315
+50	DEG10020050	rpsG	30S ribosomal protein S7	Staphylococcus aureus N315
+51	DEG10020051	fus	translational elongation factor G	Staphylococcus aureus N315
+52	DEG10020052	tufA/tuf	translational elongation factor TU	Staphylococcus aureus N315
+53	DEG10020053	pta/eutD	phosphotransacetylase	Staphylococcus aureus N315
+54	DEG10020054	SA0560	Conserved hypothetical protein	Staphylococcus aureus N315
+55	DEG10020055	adh1	alcohol dehydrogenase	Staphylococcus aureus N315
+56	DEG10020056	argS	arginyl-tRNA synthetase	Staphylococcus aureus N315
+57	DEG10020057	vraF	ABC transporter ATP-binding protein	Staphylococcus aureus N315
+58	DEG10020058	bacA/uppP	Bacitracin resistance protein	Staphylococcus aureus N315
+59	DEG10020059	fruB	fructose 1-phosphate kinase	Staphylococcus aureus N315
+60	DEG10020060	fruA	fructose specific permease	Staphylococcus aureus N315
+61	DEG10020061	SA0675	similar to ABC transporter ATP-binding protein	Staphylococcus aureus N315
+62	DEG10020062	nrdE	Ribonucleoside-diphosphate reductase (major subunit)	Staphylococcus aureus N315
+63	DEG10020063	SA0703	Conserved hypothetical protein	Staphylococcus aureus N315
+64	DEG10020064	secA	preprotein translocase subunit	Staphylococcus aureus N315
+65	DEG10020065	prfB	Peptide chain release factor 2, authentic frameshift	Staphylococcus aureus N315
+66	DEG10020066	uvrB	Exonuclease ABC subunit B	Staphylococcus aureus N315
+67	DEG10020067	uvrA	exinuclease ABC subunit A	Staphylococcus aureus N315
+68	DEG10020068	hprK	HPr kinase/phosphatase	Staphylococcus aureus N315
+69	DEG10020069	SA0722	conserved hypothetical protein	Staphylococcus aureus N315
+70	DEG10020070	gap	glyceraldehyde-3-phosphate dehydrogenase	Staphylococcus aureus N315
+71	DEG10020071	pgk	Phosphoglycerate kinase	Staphylococcus aureus N315
+72	DEG10020072	tpi	Triose phosphate isomerase	Staphylococcus aureus N315
+73	DEG10020073	eno	enolase	Staphylococcus aureus N315
+74	DEG10020074	SA0732	hypothetical protein	Staphylococcus aureus N315
+75	DEG10020075	ssrP/smpB	ssrA-binding protein	Staphylococcus aureus N315
+76	DEG10020076	SA0771	Conserved hypothetical protein	Staphylococcus aureus N315
+77	DEG10020077	SA0772	conserved hypothetical protein	Staphylococcus aureus N315
+78	DEG10020078	SA0774	ABC transporter ATP-binding protein homologue	Staphylococcus aureus N315
+79	DEG10020079	nifS	Pyridoxal-phosphate-dependent aminotransferase	Staphylococcus aureus N315
+80	DEG10020080	lipA	Lipoic acid synthetase	Staphylococcus aureus N315
+81	DEG10020081	pgi	glucose-6-phosphate isomerase A	Staphylococcus aureus N315
+82	DEG10020082	clpB	ClpB chaperone homologue	Staphylococcus aureus N315
+83	DEG10020083	oppD	Oligopeptide transport system ATP-binding protein OppD homolog	Staphylococcus aureus N315
+84	DEG10020084	trpS	tryptophanyl-tRNA synthetase	Staphylococcus aureus N315
+85	DEG10020085	fabI	Trans-2-enoyl-ACP reductase	Staphylococcus aureus N315
+86	DEG10020086	prfC	Peptide chain release factor 3	Staphylococcus aureus N315
+87	DEG10020087	menB	Naphthoate synthase	Staphylococcus aureus N315
+88	DEG10020088	qoxB	Quinol oxidase polypeptide I QoxB	Staphylococcus aureus N315
+89	DEG10020089	purC	phosphoribosylaminoimidazole-succinocarboxamide synthase	Staphylococcus aureus N315
+90	DEG10020090	purN	5-Phosphoribosylglycinamide transformylase 1	Staphylococcus aureus N315
+91	DEG10020091	ptsH	phophocarrier protein HPR	Staphylococcus aureus N315
+92	DEG10020092	ptsI	phosphoenolpyruvate-protein phosphatase	Staphylococcus aureus N315
+93	DEG10020093	SA0940	conserved hypothetical protein	Staphylococcus aureus N315
+94	DEG10020094	phdB/pdhB	pyruvate dehydrogenase E1 component beta subunit	Staphylococcus aureus N315
+95	DEG10020095	pdhC	dihydrolipoamide S-acetyltransferase component of pyruvate dehydrogenase E2	Staphylococcus aureus N315
+96	DEG10020096	pdhD	dihydrolipoamide dehydrogenase component of pyruvate dehydrogenase E3	Staphylococcus aureus N315
+97	DEG10020097	potA	Spermidine/putrescine ABC transporter, ATP-binding protein homolog	Staphylococcus aureus N315
+98	DEG10020098	SA0956	Hypothetical protein	Staphylococcus aureus N315
+99	DEG10020099	SA0959	GTP-binding elongation factor	Staphylococcus aureus N315
+100	DEG10020100	rpmF	Ribosomal protein L32	Staphylococcus aureus N315
+101	DEG10020101	pheS	Phe-tRNA synthetase alpha chain	Staphylococcus aureus N315
+102	DEG10020102	pheT	Phe-tRNA synthetase beta chain	Staphylococcus aureus N315
+103	DEG10020103	mutS2	MutS-like protein	Staphylococcus aureus N315
+104	DEG10020104	uvrC	Exonuclease ABC subunit C	Staphylococcus aureus N315
+105	DEG10020105	murI	Glutamate racemase	Staphylococcus aureus N315
+106	DEG10020106	SA0998	Conserved hypothetical protein	Staphylococcus aureus N315
+107	DEG10020107	mraY	Phospho-N-muramic acid-pentapeptide translocase	Staphylococcus aureus N315
+108	DEG10020108	murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	Staphylococcus aureus N315
+109	DEG10020109	ftsA	Cell division protein FtsA	Staphylococcus aureus N315
+110	DEG10020110	ftsZ	cell division protein	Staphylococcus aureus N315
+111	DEG10020111	SA1031	conserved hypothetical protein	Staphylococcus aureus N315
+112	DEG10020112	ileS	Ile-tRNA synthetase	Staphylococcus aureus N315
+113	DEG10020113	pyrC	dihydroorotase	Staphylococcus aureus N315
+114	DEG10020114	SA1054	Pantothenate metabolism flavoprotein homolog	Staphylococcus aureus N315
+115	DEG10020115	priA	Primosomal replication factor Y	Staphylococcus aureus N315
+116	DEG10020116	SA1063	protein kinase	Staphylococcus aureus N315
+117	DEG10020117	rpmB	Ribosomal protein L28	Staphylococcus aureus N315
+118	DEG10020118	plsX	Fatty acid/phospholipid synthesis protein	Staphylococcus aureus N315
+119	DEG10020119	fabD	Malonyl CoA-acyl carrier protein transacylase	Staphylococcus aureus N315
+120	DEG10020120	fabG	3-Oxoacyl-[acyl-carrier protein] reductase	Staphylococcus aureus N315
+121	DEG10020121	rnc	RNase III	Staphylococcus aureus N315
+122	DEG10020122	smc	chromosome segregation SMC protein	Staphylococcus aureus N315
+123	DEG10020123	SA1078	signal recognition particle	Staphylococcus aureus N315
+124	DEG10020124	ffh	signal recognition particle homolog	Staphylococcus aureus N315
+125	DEG10020125	rpsP	30S ribosomal protein S16	Staphylococcus aureus N315
+126	DEG10020126	trmD	tRNA	Staphylococcus aureus N315
+127	DEG10020127	rplS	50S ribosomal protein L19	Staphylococcus aureus N315
+128	DEG10020128	rbgA	conserved hypothetical protein	Staphylococcus aureus N315
+129	DEG10020129	topA	DNA topoisomerase I	Staphylococcus aureus N315
+130	DEG10020130	gid	Glucose inhibited division protein gid	Staphylococcus aureus N315
+131	DEG10020131	rpsB	30S ribosomal protein S2	Staphylococcus aureus N315
+132	DEG10020132	tsf	homolog elongation factor TS	Staphylococcus aureus N315
+133	DEG10020133	cdsA	phosphatidate cytidylyltransferase	Staphylococcus aureus N315
+134	DEG10020134	proS	prolyl-tRNA synthetase	Staphylococcus aureus N315
+135	DEG10020135	polC	DNA polymerase III, alpha chain PolC-type	Staphylococcus aureus N315
+136	DEG10020136	nusA	Transcription termination	Staphylococcus aureus N315
+137	DEG10020137	infB	translation initiation factor IF-2	Staphylococcus aureus N315
+138	DEG10020138	rbfA	Ribosome-binding factor A	Staphylococcus aureus N315
+139	DEG10020139	pnpA	Polyribonucleotide nucleotidyltransferase	Staphylococcus aureus N315
+140	DEG10020140	SA1118	conserved hypotehtical protein	Staphylococcus aureus N315
+141	DEG10020141	pgsA	Phosphotidylglycerophosphate synthase	Staphylococcus aureus N315
+142	DEG10020142	recA	RecA/RadA recombinase	Staphylococcus aureus N315
+143	DEG10020143	glpP	glycerol uptake operon antiterminator regulatory protein	Staphylococcus aureus N315
+144	DEG10020144	glpK	glycerol kinase	Staphylococcus aureus N315
+145	DEG10020145	SA1147	Hypothetical protein	Staphylococcus aureus N315
+146	DEG10020146	SA1176	Conserved hypothetical protein	Staphylococcus aureus N315
+147	DEG10020147	tkt	transketolase	Staphylococcus aureus N315
+148	DEG10020148	SA1187	conserved hypothetical protein	Staphylococcus aureus N315
+149	DEG10020149	parE	topoisomerase IV subunit B	Staphylococcus aureus N315
+150	DEG10020150	parC	topoisomerase IV subunit A	Staphylococcus aureus N315
+151	DEG10020151	glcT	transcription antiterminator	Staphylococcus aureus N315
+152	DEG10020152	trpB	Tryptophan synthase beta chain	Staphylococcus aureus N315
+153	DEG10020153	odhB	Dihydrolipoamide succinyltransferase	Staphylococcus aureus N315
+154	DEG10020154	murG	Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase	Staphylococcus aureus N315
+155	DEG10020155	SA1252	conserved hypothetical protein	Staphylococcus aureus N315
+156	DEG10020156	dfrA	dihydrofolate reductase	Staphylococcus aureus N315
+157	DEG10020157	thyA	Thymidylate synthase	Staphylococcus aureus N315
+158	DEG10020158	SA1277	Conserved hypothetical protein	Staphylococcus aureus N315
+159	DEG10020159	asnS/asnC	Asparaginyl-tRNA synthetase	Staphylococcus aureus N315
+160	DEG10020160	gerCD/ubiE	Menaquinone biosynthesis methyltransferase	Staphylococcus aureus N315
+161	DEG10020161	engA	hypothetical protein, similar to GTP binding protein	Staphylococcus aureus N315
+162	DEG10020162	cmk	Cytidylate kinase	Staphylococcus aureus N315
+163	DEG10020163	bmfBB	branched-chain alpha-keto acid dehydrogenase E2	Staphylococcus aureus N315
+164	DEG10020164	bfmBAB	branched-chain alpha-keto acid dehydrogenase E1	Staphylococcus aureus N315
+165	DEG10020165	bfmBAA	branched-chain alpha-keto acid dehydrogenase E1	Staphylococcus aureus N315
+166	DEG10020166	SA1349	dihydrolipoamide dehydrogenase	Staphylococcus aureus N315
+167	DEG10020167	SA1359	Translation elongation factor P	Staphylococcus aureus N315
+168	DEG10020168	rpmG	50S ribosomal protein L33	Staphylococcus aureus N315
+169	DEG10020169	sigA	RNA polymerase major rho factor	Staphylococcus aureus N315
+170	DEG10020170	dnaG	DNA primase	Staphylococcus aureus N315
+171	DEG10020171	rpsU	30S ribosomal protein S21	Staphylococcus aureus N315
+172	DEG10020172	dnaJ	Molecular chaperones (contain C-terminal Zn finger domain)	Staphylococcus aureus N315
+173	DEG10020173	dnaK	Molecular chaperone	Staphylococcus aureus N315
+174	DEG10020174	lepA	GTP-binding protein	Staphylococcus aureus N315
+175	DEG10020175	rpsT	30S ribosomal protein S20	Staphylococcus aureus N315
+176	DEG10020176	greA	Transcription elongation factor GreA	Staphylococcus aureus N315
+177	DEG10020177	SA1445	conserved hypothetical protein	Staphylococcus aureus N315
+178	DEG10020178	alaS	alanyl-tRNA synthetase	Staphylococcus aureus N315
+179	DEG10020179	SA1449	(5-methylaminomethyl-2-thiouridylate)-methyltransferase	Staphylococcus aureus N315
+180	DEG10020180	SA1450	Iron-sulfur cofactor synthesis protein homolog	Staphylococcus aureus N315
+181	DEG10020181	aspS	aspartyl-tRNA synthetase	Staphylococcus aureus N315
+182	DEG10020182	hisS	histidyl-tRNA synthetase	Staphylococcus aureus N315
+183	DEG10020183	obg/obgE	Spo0B-associated GTP-binding protein	Staphylococcus aureus N315
+184	DEG10020184	rpmA	50S ribosomal protein L27	Staphylococcus aureus N315
+185	DEG10020185	rplU	50S ribosomal protein L21	Staphylococcus aureus N315
+186	DEG10020186	valS	valine-tRNA ligase	Staphylococcus aureus N315
+187	DEG10020187	hemB	Delta-aminolevulinic acid dehydratase	Staphylococcus aureus N315
+188	DEG10020188	hemC	porphobilinogen deaminase	Staphylococcus aureus N315
+189	DEG10020189	rplT	50S ribosomal protein L20	Staphylococcus aureus N315
+190	DEG10020190	rpmI	50S ribosomal protein L35	Staphylococcus aureus N315
+191	DEG10020191	infC	translation initiation factor IF-3 infC	Staphylococcus aureus N315
+192	DEG10020192	thrS	threonyl-tRNA synthetase 1	Staphylococcus aureus N315
+193	DEG10020193	SA1509	Conserved hypothetical protein	Staphylococcus aureus N315
+194	DEG10020194	gapB	Glyceraldehyde-3-phosphate dehydrogenase 2	Staphylococcus aureus N315
+195	DEG10020195	polA	DNA polymerase I	Staphylococcus aureus N315
+196	DEG10020196	pykA	pyruvate kinase	Staphylococcus aureus N315
+197	DEG10020197	pfk/pfkA	6-phosphofructokinase	Staphylococcus aureus N315
+198	DEG10020198	accA	Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit	Staphylococcus aureus N315
+199	DEG10020199	SA1523	acetyl-CoA carboxylase transferase beta subunit	Staphylococcus aureus N315
+200	DEG10020200	SA1524	Malate dehydrogenase homolog	Staphylococcus aureus N315
+201	DEG10020201	dnaE	DNA polymerase III, alpha chain	Staphylococcus aureus N315
+202	DEG10020202	ackA	Acetate kinase homolog	Staphylococcus aureus N315
+203	DEG10020203	rpsD	30S ribosomal protein S4	Staphylococcus aureus N315
+204	DEG10020204	serA	Phosphoglycerate dehydrogenase	Staphylococcus aureus N315
+205	DEG10020205	tyrS	tyrosyl-tRNA synthetase	Staphylococcus aureus N315
+206	DEG10020206	acsA	Acetyl-CoA synthetase	Staphylococcus aureus N315
+207	DEG10020207	ccpA	Catabolite control protein A	Staphylococcus aureus N315
+208	DEG10020208	murC	UDP-N-acetylmuramate-alanine ligase	Staphylococcus aureus N315
+209	DEG10020209	SA1563	phenylalanyl-tRNA synthetase (beta subunit) homolog	Staphylococcus aureus N315
+210	DEG10020210	leuS	leucyl-rRNA synthetase	Staphylococcus aureus N315
+211	DEG10020211	metK	S-adenosylmethionine synthetase	Staphylococcus aureus N315
+212	DEG10020212	ampS	aminopeptidase ampS	Staphylococcus aureus N315
+213	DEG10020213	vraS	two-component sensor histidine kinase	Staphylococcus aureus N315
+214	DEG10020214	map	Methionine aminopeptidase	Staphylococcus aureus N315
+215	DEG10020215	SA1713	RNA methyltransferase homolog	Staphylococcus aureus N315
+216	DEG10020216	gatB	glutamyl-tRNAGln amidotransferase subunit B	Staphylococcus aureus N315
+217	DEG10020217	SA1716	glutamyl-tRNAGln amidotransferase subunit A	Staphylococcus aureus N315
+218	DEG10020218	lig	DNA ligase	Staphylococcus aureus N315
+219	DEG10020219	pcrA	ATP-depentend DNA helicase	Staphylococcus aureus N315
+220	DEG10020220	purB	adenylosuccinate lyase	Staphylococcus aureus N315
+221	DEG10020221	nadE	NAD synthetase, prefers NH3 over glutamine	Staphylococcus aureus N315
+222	DEG10020222	SA1747	similar to ABC transporter, ATP-binding protein	Staphylococcus aureus N315
+223	DEG10020223	SA1792	Single-strand DNA-binding protein	Staphylococcus aureus N315
+224	DEG10020224	groES	Protein fate: Protein folding and stabilization	Staphylococcus aureus N315
+225	DEG10020225	vga	Hypothetical ABC transporter ATP-binding protein	Staphylococcus aureus N315
+226	DEG10020226	SA1854	similar to O-sialoglycoprotein	Staphylococcus aureus N315
+227	DEG10020227	kdpA	potassium-transporting ATPase subunit A	Staphylococcus aureus N315
+228	DEG10020228	SA1885	hypothetical protein, similar to ATP-dependent RNA helicase	Staphylococcus aureus N315
+229	DEG10020229	murF	UDP-N-acetylmuramoylalanine-D-glutamyl-lysine-D-alanyl-D-alanine ligase	Staphylococcus aureus N315
+230	DEG10020230	ddlA/ddl	D-Alanine-D-alanine ligase	Staphylococcus aureus N315
+231	DEG10020231	murA	UDP-N-acetylglucosamine 1-carboxyvinyl transferase 1	Staphylococcus aureus N315
+232	DEG10020232	atpF	ATP synthase B chain	Staphylococcus aureus N315
+233	DEG10020233	upp	uracil phosphoribosyl transferase	Staphylococcus aureus N315
+234	DEG10020234	glyA	serine hydroxymethyl transferase	Staphylococcus aureus N315
+235	DEG10020235	prfA	peptide chain release factor 1	Staphylococcus aureus N315
+236	DEG10020236	tdk	thymidine kinase	Staphylococcus aureus N315
+237	DEG10020237	rpmE/rpmE2	Ribosomal protein L31	Staphylococcus aureus N315
+238	DEG10020238	rho	Transcription termination factor Rho	Staphylococcus aureus N315
+239	DEG10020239	fbaA	fructose-bisphosphate aldolase	Staphylococcus aureus N315
+240	DEG10020240	SA1939	deoxyribose-phosphate aldolase	Staphylococcus aureus N315
+241	DEG10020241	SA1957	conserved hypothetical protein	Staphylococcus aureus N315
+242	DEG10020242	glmS	Glucosamine-fructose-6-phosphate aminotransferase	Staphylococcus aureus N315
+243	DEG10020243	mtlA	Mannitol PTS EII	Staphylococcus aureus N315
+244	DEG10020244	mtlD	mannitol-1-phosphate 5-dehydrogenase	Staphylococcus aureus N315
+245	DEG10020245	SA1966	conserved hypothetical protein	Staphylococcus aureus N315
+246	DEG10020246	lacA	galactose-6-phosphate isomerase LacA subunit	Staphylococcus aureus N315
+247	DEG10020247	rpsI	30S ribosomal protein S9	Staphylococcus aureus N315
+248	DEG10020248	rplM	50S ribosomal protein L13	Staphylococcus aureus N315
+249	DEG10020249	SA2019	Conserved hypothetical protein	Staphylococcus aureus N315
+250	DEG10020250	SA2020	Hypothetical protein	Staphylococcus aureus N315
+251	DEG10020251	rplQ	50S ribosomal protein L17	Staphylococcus aureus N315
+252	DEG10020252	rpoA	DNA-directed RNA polymerase alpha chain	Staphylococcus aureus N315
+253	DEG10020253	rpsK	30S ribosomal protein S11	Staphylococcus aureus N315
+254	DEG10020254	rpsM	30S ribosomal protein S13	Staphylococcus aureus N315
+255	DEG10020255	rpmJ	50S ribosomal protein L36	Staphylococcus aureus N315
+256	DEG10020256	infA	translation initiation factor IF-1	Staphylococcus aureus N315
+257	DEG10020257	adk	adenylate kinase	Staphylococcus aureus N315
+258	DEG10020258	secY	preprotein translocase SecY subunit	Staphylococcus aureus N315
+259	DEG10020259	rplO	50S ribosomal protein L15	Staphylococcus aureus N315
+260	DEG10020260	rpmD	50S ribosomal protein L30	Staphylococcus aureus N315
+261	DEG10020261	rpsE	30S ribosomal protein S5	Staphylococcus aureus N315
+262	DEG10020262	rplR	50S ribosomal protein L18	Staphylococcus aureus N315
+263	DEG10020263	rplF	50S ribosomal protein L6	Staphylococcus aureus N315
+264	DEG10020264	rpsH	30S ribosomal protein S8	Staphylococcus aureus N315
+265	DEG10020265	rpsN	30S ribosomal protein S14	Staphylococcus aureus N315
+266	DEG10020266	rplE	50S ribosomal protein L5	Staphylococcus aureus N315
+267	DEG10020267	rplX	50S ribosomal protein L24	Staphylococcus aureus N315
+268	DEG10020268	rplN	50S ribosomal protein L14	Staphylococcus aureus N315
+269	DEG10020269	rpsQ	30S ribosomal protein S17	Staphylococcus aureus N315
+270	DEG10020270	rpmC	50S ribosomal protein L29	Staphylococcus aureus N315
+271	DEG10020271	rplP	50S ribosomal protein L16	Staphylococcus aureus N315
+272	DEG10020272	rpsC	30S ribosomal protein S3	Staphylococcus aureus N315
+273	DEG10020273	rplV	50S ribosomal protein L22	Staphylococcus aureus N315
+274	DEG10020274	rpsS	30S ribosomal protein S19	Staphylococcus aureus N315
+275	DEG10020275	rplB	50S ribosomal protein L2	Staphylococcus aureus N315
+276	DEG10020276	rplW	50S ribosomal protein L23	Staphylococcus aureus N315
+277	DEG10020277	rplD	50S ribosomal protein L4	Staphylococcus aureus N315
+278	DEG10020278	rplC	50S ribosomal protein L3	Staphylococcus aureus N315
+279	DEG10020279	rpsJ	30S ribosomal protein S10	Staphylococcus aureus N315
+280	DEG10020280	ureA	Urease gamma subunit	Staphylococcus aureus N315
+281	DEG10020281	ureB	Urease beta subunit	Staphylococcus aureus N315
+282	DEG10020282	ureC	Urease alpha subunit	Staphylococcus aureus N315
+283	DEG10020283	SA2156	L-Lactate permease lctP homolog	Staphylococcus aureus N315
+284	DEG10020284	narG	Respiratory nitrate reductase alpha chain	Staphylococcus aureus N315
+285	DEG10020285	fmhA	fmhA protein	Staphylococcus aureus N315
+286	DEG10020286	opuCA	glycine betaine/carnitine/choline ABC transporter	Staphylococcus aureus N315
+287	DEG10020287	opp-1D	oligopeptide transporter putative ATPase domain	Staphylococcus aureus N315
+288	DEG10020288	SA2279	hypothetical protein, similar to phosphomannomutase	Staphylococcus aureus N315
+289	DEG10020289	gntK	gluconokinase	Staphylococcus aureus N315
+290	DEG10020290	ptsG	PTS system, glucose-specific IIABC component	Staphylococcus aureus N315
+291	DEG10020291	clpL	ATP-dependent Clp proteinase chain ClpL	Staphylococcus aureus N315
+292	DEG10020292	copA	Copper-transporting ATPase copA	Staphylococcus aureus N315
+293	DEG10020293	ldh	L-Lactate dehydrogenase	Staphylococcus aureus N315
+294	DEG10020294	gbsA	Glycine betaine aldehyde dehydrogenase gbsA	Staphylococcus aureus N315
+295	DEG10020295	SA2434	fructose phosphotransferase system enzyme fruA homolog	Staphylococcus aureus N315
+296	DEG10020296	pmi	Mannose-6-phosphate isomerase	Staphylococcus aureus N315
+297	DEG10020297	SA2442	preprotein translocase SecA homolog	Staphylococcus aureus N315
+298	DEG10020298	vraD	hypothetical protein, similar to ABC transporter	Staphylococcus aureus N315
+299	DEG10020299	gidB	Glucose inhibited division protein B	Staphylococcus aureus N315
+300	DEG10020300	gidA	glucose inhibited division protein A	Staphylococcus aureus N315
+301	DEG10020301	rnpA	Ribonuclease P - protein component	Staphylococcus aureus N315
+302	DEG10020302	rpmH	50S ribosomal protein L34	Staphylococcus aureus N315

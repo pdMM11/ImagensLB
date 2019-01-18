@@ -1,0 +1,103 @@
+LOCUS       MURI_STAAN               266 aa            linear   BCT 05-DEC-2018
+DEFINITION  RecName: Full=Glutamate racemase.
+ACCESSION   P63638
+VERSION     P63638.1
+KEYWORDS    Cell shape; Cell wall biogenesis/degradation; Complete proteome;
+            Isomerase; Peptidoglycan synthesis.
+SOURCE      Staphylococcus aureus subsp. aureus N315
+  ORGANISM  Staphylococcus aureus subsp. aureus N315
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1  (residues 1 to 266)
+  AUTHORS   Kuroda,M., Ohta,T., Uchiyama,I., Baba,T., Yuzawa,H., Kobayashi,I.,
+            Cui,L., Oguchi,A., Aoki,K., Nagai,Y., Lian,J., Ito,T., Kanamori,M.,
+            Matsumaru,H., Maruyama,A., Murakami,H., Hosoyama,A., Mizutani-Ui,Y.,
+            Takahashi,N.K., Sawano,T., Inoue,R., Kaito,C., Sekimizu,K.,
+            Hirakawa,H., Kuhara,S., Goto,S., Yabuzaki,J., Kanehisa,M.,
+            Yamashita,A., Oshima,K., Furuya,K., Yoshino,C., Shiba,T.,
+            Hattori,M., Ogasawara,N., Hayashi,H. and Hiramatsu,K.
+  TITLE     Whole genome sequencing of meticillin-resistant Staphylococcus
+            aureus
+  JOURNAL   Lancet 357 (9264), 1225-1240 (2001)
+   PUBMED   11418146
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].; STRAIN=N315
+REFERENCE   2  (residues 1 to 266)
+  AUTHORS   Vaezzadeh,A.R., Deshusses,J., Lescuyer,P. and Hochstrasser,D.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-OCT-2007) to UniProtKB
+  REMARK    IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].;
+            STRAIN=N315
+COMMENT     On or before Apr 6, 2005 this sequence version replaced
+            gi:25291670, gi:20177986.
+            [FUNCTION] Provides the (R)-glutamate required for cell wall
+            biosynthesis. {ECO:0000255|HAMAP-Rule:MF_00258}.
+            [CATALYTIC ACTIVITY] Reaction=L-glutamate = D-glutamate;
+            Xref=Rhea:RHEA:12813, ChEBI:CHEBI:29985, ChEBI:CHEBI:29986;
+            EC=5.1.1.3; Evidence={ECO:0000255|HAMAP-Rule:MF_00258}.
+            [PATHWAY] Cell wall biogenesis; peptidoglycan biosynthesis.
+            {ECO:0000255|HAMAP-Rule:MF_00258}.
+            [SIMILARITY] Belongs to the aspartate/glutamate racemases family.
+            {ECO:0000255|HAMAP-Rule:MF_00258}.
+FEATURES             Location/Qualifiers
+     source          1..266
+                     /organism="Staphylococcus aureus subsp. aureus N315"
+                     /db_xref="taxon:158879"
+     gene            1..266
+                     /gene="murI"
+                     /locus_tag="SA0997"
+     Protein         1..266
+                     /product="Glutamate racemase"
+                     /EC_number="5.1.1.3"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..266
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Glutamate racemase. /FTId=PRO_0000095509."
+     Region          1..260
+                     /region_name="PRK00865"
+                     /note="glutamate racemase; Provisional"
+                     /db_xref="CDD:234851"
+     Region          9..10
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate binding.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+     Region          41..42
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate binding.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+     Site            72
+                     /site_type="active"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Proton donor/acceptor.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+     Region          73..74
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate binding.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+     Site            184
+                     /site_type="active"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Proton donor/acceptor.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+     Region          185..186
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate binding.
+                     {ECO:0000255|HAMAP-Rule:MF_00258}."
+ORIGIN
+        1 mnkpigvids gvggltvake imrqlpneti yylgdigrcp ygprpgeqvk qytveiarkl
+       61 mefdikmlvi acntataval eylqktlsip vigviepgar taimttrnqn vlvlgtegti
+      121 kseayrthik rinphvevhg vacpgfvplv eqmrysdpti tsivihqtlk rwrnsesdtv
+      181 ilgcthypll ykpiydyfgg kktvissgle tarevsallt fsnehasyte hpdhrffatg
+      241 dpthitniik ewlnlsvnve risvnd
+//

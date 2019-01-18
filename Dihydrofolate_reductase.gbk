@@ -1,0 +1,134 @@
+LOCUS       DYR_STAAN                159 aa            linear   BCT 05-DEC-2018
+DEFINITION  RecName: Full=Dihydrofolate reductase; Short=DHFR.
+ACCESSION   P99079
+VERSION     P99079.2
+KEYWORDS    Complete proteome; NADP; One-carbon metabolism; Oxidoreductase.
+SOURCE      Staphylococcus aureus subsp. aureus N315
+  ORGANISM  Staphylococcus aureus subsp. aureus N315
+            Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae;
+            Staphylococcus.
+REFERENCE   1  (residues 1 to 159)
+  AUTHORS   Kuroda,M., Ohta,T., Uchiyama,I., Baba,T., Yuzawa,H., Kobayashi,I.,
+            Cui,L., Oguchi,A., Aoki,K., Nagai,Y., Lian,J., Ito,T., Kanamori,M.,
+            Matsumaru,H., Maruyama,A., Murakami,H., Hosoyama,A., Mizutani-Ui,Y.,
+            Takahashi,N.K., Sawano,T., Inoue,R., Kaito,C., Sekimizu,K.,
+            Hirakawa,H., Kuhara,S., Goto,S., Yabuzaki,J., Kanehisa,M.,
+            Yamashita,A., Oshima,K., Furuya,K., Yoshino,C., Shiba,T.,
+            Hattori,M., Ogasawara,N., Hayashi,H. and Hiramatsu,K.
+  TITLE     Whole genome sequencing of meticillin-resistant Staphylococcus
+            aureus
+  JOURNAL   Lancet 357 (9264), 1225-1240 (2001)
+   PUBMED   11418146
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].; STRAIN=N315
+REFERENCE   2  (residues 1 to 159)
+  AUTHORS   Scherl,A., Francois,P., Bento,M., Deshusses,J.M., Charbonnier,Y.,
+            Converset,V., Huyghe,A., Walter,N., Hoogland,C., Appel,R.D.,
+            Sanchez,J.C., Zimmermann-Ivol,C.G., Corthals,G.L., Hochstrasser,D.F.
+            and Schrenzel,J.
+  TITLE     Correlation of proteomic and transcriptomic profiles of
+            Staphylococcus aureus during the post-exponential phase of growth
+  JOURNAL   J. Microbiol. Methods 60 (2), 247-257 (2005)
+   PUBMED   15590099
+  REMARK    IDENTIFICATION BY MASS SPECTROMETRY.; STRAIN=N315
+REFERENCE   3  (residues 1 to 159)
+  AUTHORS   Vaezzadeh,A.R., Deshusses,J., Lescuyer,P. and Hochstrasser,D.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-OCT-2007) to UniProtKB
+  REMARK    IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].;
+            STRAIN=N315
+COMMENT     [FUNCTION] Key enzyme in folate metabolism. Catalyzes an essential
+            reaction for de novo glycine and purine synthesis, and for DNA
+            precursor synthesis (By similarity). {ECO:0000250}.
+            [CATALYTIC ACTIVITY] Reaction=(6S)-5,6,7,8-tetrahydrofolate +
+            NADP(+) = 7,8-dihydrofolate + H(+) + NADPH; Xref=Rhea:RHEA:15009,
+            ChEBI:CHEBI:15378, ChEBI:CHEBI:57451, ChEBI:CHEBI:57453,
+            ChEBI:CHEBI:57783, ChEBI:CHEBI:58349; EC=1.5.1.3;
+            Evidence={ECO:0000255|PROSITE-ProRule:PRU00660}.
+            [PATHWAY] Cofactor biosynthesis; tetrahydrofolate biosynthesis;
+            5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: step 1/1.
+            [SIMILARITY] Belongs to the dihydrofolate reductase family.
+            {ECO:0000305}.
+FEATURES             Location/Qualifiers
+     source          1..159
+                     /organism="Staphylococcus aureus subsp. aureus N315"
+                     /db_xref="taxon:158879"
+     gene            1..159
+                     /gene="folA"
+                     /locus_tag="SA1259"
+     Protein         1..159
+                     /product="Dihydrofolate reductase"
+                     /EC_number="1.5.1.3"
+                     /note="DHFR"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          2..159
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Dihydrofolate reductase. /FTId=PRO_0000186408."
+     Region          2..157
+                     /region_name="Domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="DHFR. {ECO:0000255|PROSITE-ProRule:PRU00660}."
+     Region          2..157
+                     /region_name="DHFR_1"
+                     /note="Dihydrofolate reductase; pfam00186"
+                     /db_xref="CDD:306655"
+     Site            order(6,23,28,58,93,99,112)
+                     /site_type="other"
+                     /note="folate binding site [chemical binding]"
+                     /db_xref="CDD:238127"
+     Region          6..8
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate binding. {ECO:0000250}."
+     Site            7..8
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000250}."
+     Site            order(8,15,45..47,65,94..97)
+                     /site_type="other"
+                     /note="NADP+ binding site [chemical binding]"
+                     /db_xref="CDD:238127"
+     Site            15..20
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000250}."
+     Site            28
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000250}."
+     Site            44..47
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000250}."
+     Site            58
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000250}."
+     Site            63..66
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000250}."
+     Site            93..98
+                     /site_type="np-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="NADP. {ECO:0000250}."
+     Site            112
+                     /site_type="binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Substrate. {ECO:0000250}."
+ORIGIN
+        1 mtlsilvahd lqrvigfenq lpwhlpndlk hvkklstght lvmgrktfes igkplpnrrn
+       61 vvltsdtsfn vegvdvihsi ediyqlpghv fifggqtlfe emidkvddmy itviegkfrg
+      121 dtffppytfe dwevassveg kldekntiph tflhlirkk
+//
